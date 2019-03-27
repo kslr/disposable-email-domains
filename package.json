@@ -7,8 +7,5 @@
   "dependencies": {
     "got": "^9.6.0",
     "lodash": "^4.17.11"
-  },
-  "devDependencies": {
-    "eslint": "^5.15.3"
   }
 }

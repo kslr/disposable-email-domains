@@ -1,0 +1,14 @@
+{
+  "name": "disposable-email-domain-list",
+  "repository": "git@github.com:kslr/disposable-email-domain-list.git",
+  "author": "Kslr <kslrwang@gmail.com>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}

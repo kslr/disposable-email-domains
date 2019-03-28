@@ -11,8 +11,13 @@ async function stopforumspam() {
     return response.body.split('\n');
 }
 
+async function fgribreau_mailchecker() {
+    let response = await got('https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt');
+    return response.body.split('\n');
+}
+
 (async () => {
-    let list = await _.filter(await _.uniq(await stopforumspam()), (domain) => {
+    let list = await _.filter(await _.uniq(await _.merge(await stopforumspam(), await fgribreau_mailchecker())), (domain) => {
         let email = `hi@${domain.toLowerCase()}`;
         return isValidEmail.test(email);
     });

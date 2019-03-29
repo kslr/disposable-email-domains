@@ -1,4 +1,7 @@
 # Disposable Email Domains
+
+![total number](https://img.shields.io/endpoint.svg?color=blue&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fkslr%2Fdisposable-email-domains%2Fmaster%2Fshields.json)
+
 Anti-cheating, temporary (disposable/throwaway) email domains
 
 This will be very helpful when you have to contact your users and you want to avoid errors causing lack of communication or want to block "spamboxes".

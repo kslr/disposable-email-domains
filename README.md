@@ -14,9 +14,11 @@ Use it to validate email addresses on sign up, or just to see how many real emai
 * json
 
 ``` 
-https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.json 
-```
+https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.json
 
+// auto Content-Type
+https://rawcdn.githack.com/kslr/disposable-email-domains/5d3388c508ba362d5a9030bf6d49f309de1c2b0d/list.json
+```
 * text
 ```
 https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt

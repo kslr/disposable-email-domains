@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt
 ## Source
 * https://github.com/FGRibreau/mailchecker
 * https://www.stopforumspam.com
+* https://github.com/andreis/disposable-email-domains
 
 ## Contributors
 

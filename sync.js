@@ -16,12 +16,23 @@ async function fgribreau_mailchecker() {
     return response.body.split('\n');
 }
 
+async function andreis_disposable_email_domains() {
+    let response = await got('https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt');
+    return response.body.split('\n');
+}
+
 (async () => {
-    let list = await _.filter(await _.uniq(await _.merge(await stopforumspam(), await fgribreau_mailchecker())), (domain) => {
-        let email = `hi@${domain.toLowerCase()}`;
-        return isValidEmail.test(email);
+    let list = await _.filter(
+        await _.uniq(
+            await _.concat(
+                await stopforumspam(),
+                await fgribreau_mailchecker(),
+                await andreis_disposable_email_domains()
+            )), (domain) => {
+            let email = `hi@${domain.toLowerCase()}`;
+            return isValidEmail.test(email);
     });
 
-    fs.writeFileSync(p.resolve(__dirname, '../list.json'), JSON.stringify(list));
-    fs.writeFileSync(p.resolve(__dirname, '../list.txt'), list.join('\n'));
+    fs.writeFileSync(p.resolve(__dirname, 'list.json'), JSON.stringify(list));
+    fs.writeFileSync(p.resolve(__dirname, 'list.txt'), list.join('\n'));
 })();

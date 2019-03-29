@@ -35,4 +35,9 @@ async function andreis_disposable_email_domains() {
 
     fs.writeFileSync(p.resolve(__dirname, 'list.json'), JSON.stringify(list));
     fs.writeFileSync(p.resolve(__dirname, 'list.txt'), list.join('\n'));
+    fs.writeFileSync(p.resolve(__dirname, 'shields.json'), JSON.stringify({
+        schemaVersion: 1,
+        label: 'total number',
+        message: list.length
+    }))
 })();

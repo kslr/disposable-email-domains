@@ -21537,6 +21537,7 @@ asl13.ga
 asl13.gq
 asl13.ml
 asl13.tk
+assuranceprops.fun
 assurancespourmoi.eu
 astropink.com
 asu.mx
@@ -24297,7 +24298,6 @@ gomessage.ml
 goodjab.club
 googdad.tk
 google-mail.ooo
-googlemail.press
 goooogle.flu.cc
 goooogle.igg.biz
 goooogle.nut.cc

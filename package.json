@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "got": "9.6.0",
-    "lodash": "4.17.13"
+    "lodash": "4.17.15"
   }
 }

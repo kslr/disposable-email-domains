@@ -11,8 +11,9 @@ async function stopforumspam() {
     return response.body.split('\n');
 }
 
-async function fgribreau_mailchecker() {
-    let response = await got('https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt');
+// https://github.com/yzyjim/disposable-email-domain-list
+async function yzyjim() {
+    let response = await got('https://raw.githubusercontent.com/yzyjim/disposable-email-domain-list/master/domains.txt');
     return response.body.split('\n');
 }
 
@@ -26,7 +27,7 @@ async function andreis_disposable_email_domains() {
         await _.uniq(
             await _.concat(
                 await stopforumspam(),
-                await fgribreau_mailchecker(),
+                await yzyjim(),
                 await andreis_disposable_email_domains()
             )), (domain) => {
             let email = `hi@${domain.toLowerCase()}`;

@@ -25,6 +25,10 @@ async function whitelist() {
     return fs.readFileSync('./whitelist.txt').toString().split('\n');
 }
 
+async function customList() {
+    return fs.readFileSync('./custom.txt').toString().split('\n');
+}
+
 (async () => {
     const whiteList = await whitelist();
     let list = await _.filter(
@@ -32,7 +36,8 @@ async function whitelist() {
             await _.concat(
                 await stopforumspam(),
                 await yzyjim(),
-                await andreis_disposable_email_domains()
+                await andreis_disposable_email_domains(),
+                await customList()
             )), (domain) => {
             if (whiteList.indexOf(domain) !== -1) {
                 return false;

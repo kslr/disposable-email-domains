@@ -10,12 +10,6 @@ async function stopforumspam() {
     return response.body.split('\n');
 }
 
-// https://github.com/yzyjim/disposable-email-domain-list
-async function yzyjim() {
-    let response = await got('https://raw.githubusercontent.com/yzyjim/disposable-email-domain-list/master/domains.txt');
-    return response.body.split('\n');
-}
-
 async function andreis_disposable_email_domains() {
     let response = await got('https://raw.githubusercontent.com/andreis/disposable-email-domains/master/domains.txt');
     return response.body.split('\n');
@@ -35,7 +29,6 @@ async function customList() {
         await _.uniq(
             await _.concat(
                 await stopforumspam(),
-                await yzyjim(),
                 await andreis_disposable_email_domains(),
                 await customList()
             )), (domain) => {

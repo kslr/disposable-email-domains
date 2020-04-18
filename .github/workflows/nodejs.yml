@@ -20,12 +20,12 @@ jobs:
           node-version: '12.x'
       - run: npm install
       - run: |
-        node sync.js
+          node sync.js
       - name: Commit files
-          run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git commit -m "update" -a
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "update" -a
       - name: push data
         uses: ad-m/github-push-action@master
         with:

@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "got": "11.2.0",
+    "got": "11.3.0",
     "lodash": "4.17.15"
   }
 }

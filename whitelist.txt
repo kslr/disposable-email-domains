@@ -106,3 +106,7 @@ yandex.ru
 yeah.net
 ymail.com
 zonnet.nl
+139.com
+nus.edu.sg
+benilde.edu.ph
+zoho.com

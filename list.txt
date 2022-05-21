@@ -2537,6 +2537,7 @@ akitaxe.eu
 akk.ro
 akmail.com
 akmaila.org
+akmra.com
 akoncasino1.com
 akorde.cd
 akowiqohavuj.asia
@@ -4614,6 +4615,7 @@ batiro.gq
 batpat.it
 batterybargains.com
 batterydoctor.online
+battle.waw.pl
 battlearenashow.com
 battleperks.com
 battlepong.info
@@ -21190,6 +21192,7 @@ mail.kaaaxcreators.tk
 mail.libivan.com
 mail.mediapoi.cf
 mail.nixbyte.net
+mail.praddserver.my.id
 mail.rupop.mail.ru
 mail.smmverse.com
 mail.toram.ngab.me
@@ -32433,6 +32436,7 @@ tailorhemp.com
 taimeha.cf
 taimeha.gq
 taimladpho.cf
+taimurfun.fun
 tainerfitness.com
 taiqicc.com
 taireize.xyz
@@ -69088,7 +69092,6 @@ doctruyemoi.com
 doctxyle.cf
 doctxyle.ml
 docu.me
-document.title
 documentingyellowstone.com
 documentstorage4.com
 docusign-enterprise.com
@@ -72504,7 +72507,6 @@ emailtemporanea.com
 emailtemporanea.net
 emailtemporar.ro
 emailtemporario.com.br
-emailtemporl.org
 emailthe.net
 emailtmp.com
 emailto.de
@@ -99542,7 +99544,6 @@ luxuryshopforpants.com
 luxuryspanishrentals.com
 luxusmail.cf
 luxusmail.ml
-luxusmail.org
 luxusmail.tk
 luxusmail.uk
 luxusroleplay.us
@@ -100843,6 +100844,7 @@ mailucy.ml
 mailuisa.ml
 mailuniverse.co.uk
 mailur.com
+mailus.ga
 mailusivip.xyz
 mailverificationupdate.xyz
 mailviwav.tk
@@ -100959,6 +100961,7 @@ makeplugin.com
 makeracistsafraidagain.com
 makerains.tk
 makerinist.com
+makerkiller.ml
 makersxq.com
 makeshopping.pp.ua
 makesnte.com
@@ -104574,7 +104577,6 @@ modaborseprezzi.com
 modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
-modal-backdrop.show
 modalova.biz
 modalova.se
 modalova.shop
@@ -124642,6 +124644,7 @@ saibaagora.website
 saibis.ru
 saidbetanzos.info
 saidwise.com
+saidytb.ml
 saifix.xyz
 saigoncity-dublin.com
 saigonmaigoinhaubangcung.com
@@ -145740,9 +145743,6 @@ windmaweek.gq
 windmaweek.ml
 windmine.tk
 window-55.net
-window.adsbygoogle
-window.livewire
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -149587,7 +149587,6 @@ yetereveoturupkaldim.ga
 yetereveoturupkaldim.tk
 yetgo.site
 yetmail.net
-yeumark.ga
 yeuniverse.net
 yeuniverse.org
 yeupmail.cf

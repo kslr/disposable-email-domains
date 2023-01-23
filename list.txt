@@ -190,6 +190,7 @@
 10mail.tk
 10minutemail.co.uk
 10minutemail.nl
+10minutemailbox.com
 10mt.cc
 10rexell.website
 10star.casino
@@ -3221,6 +3222,7 @@ and.poisedtoshrike.com
 and.wrengostic.com
 andaluchic.net
 ander.us
+andmail.site
 andmeatballs.com
 andno.org
 andoni-luis-aduriz.art
@@ -37375,6 +37377,7 @@ totalpoolservice.com
 totalwirelessrefill.com
 totectors.net
 tothelab.com
+totmail.site
 totobo200.com
 totoboonline8.com
 totoson.com
@@ -39843,6 +39846,7 @@ warehouseofthebooks.site
 wareka.com
 wariacje-malej-czarnej.pw
 warm.numaze.com
+warmail.site
 warman.global
 warmmail.online
 warna222.com
@@ -42964,7 +42968,6 @@ zzzzzzzzzzzzz.com
 10minutemail.ru
 10minutemail.us
 10minutemail2.com
-10minutemailbox.com
 10minutemails.in
 10minutenemail.de
 10minutenmail.xyz
@@ -53365,7 +53368,6 @@ amililb.net
 amin.co.pl
 amin.consulting
 amindhab.ga
-amine2.gq
 amineoffice.com
 aminois.ga
 aminoprimereview.info
@@ -60827,7 +60829,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 bluecollarguitarpickupsonline.com
 bluecrossrehabcenters.com
 bluedanubetours.com
@@ -69351,6 +69352,7 @@ cscasessteam.com
 csccblida.com
 cschammel.com
 cscrddata.com
+csdfth.store
 csdinterpretingonline.com
 csdm73.ru
 csendek.icu
@@ -73421,8 +73423,6 @@ doctruyemoi.com
 doctxyle.cf
 doctxyle.ml
 docu.me
-document.onreadystatechange
-document.title
 documentingyellowstone.com
 documentstorage4.com
 docusign-enterprise.com
@@ -104123,7 +104123,6 @@ luxuryshopforpants.com
 luxuryspanishrentals.com
 luxusmail.cf
 luxusmail.ml
-luxusmail.org
 luxusmail.tk
 luxusroleplay.us
 luxvil.ru
@@ -112092,7 +112091,6 @@ naveon.ru
 naverapp.com
 naverly.com
 navientlogin.net
-navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navlys.xyz
@@ -150772,10 +150770,6 @@ windmaweek.gq
 windmaweek.ml
 windmine.tk
 window-55.net
-window.adsbygoogle
-window.livewire
-window.location
-window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl
@@ -153727,6 +153721,7 @@ xwatch.today
 xwcbk1.site
 xwdmoe.cf
 xwfzlvjb.shop
+xwgiant.com
 xwgpzgajlpw.cf
 xwgpzgajlpw.ga
 xwgpzgajlpw.gq
@@ -155375,6 +155370,7 @@ yq6iki8l5xa.tk
 yqdongze.com
 yqejb1.site
 yqevzp.online
+yqjbgcizut.ga
 yqjmtqpl.shop
 yqlnd.art
 yquhnhipm.pl

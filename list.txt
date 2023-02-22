@@ -12232,6 +12232,7 @@ doczf.site
 doczg.site
 dodeeptech.com
 dodgemail.de
+dodoco.me
 dodode.com
 doerma.com
 dof.r-e.kr
@@ -12255,6 +12256,7 @@ dogsdo.com
 dogshowresults.com
 dogsines.tk
 dogtrainingobedienceschool.com
+dohien.pw
 doid.com
 doimatch.com
 doinicioaolucro.com
@@ -36023,6 +36025,7 @@ starveyourego.com
 stasi.cd
 stasuauth.com
 state.bthow.com
+statehand.us
 statelawyerdirectory.com
 statement.email
 statemother.us
@@ -38127,6 +38130,7 @@ tokerrecipes.com
 tokertrail.com
 tokesmail.com
 tokojudi.best
+tokokarena.live
 tokyo-mail1.top
 tokyomotion.mobi
 tokyoto.site
@@ -56577,6 +56581,7 @@ atarinewvcs.com
 atarivcs.net
 atarivideocomputersystem.com
 atasehirsuit.com
+atasibotak.shop
 atatteve.website
 atbeoffroad.com
 atbhatby.shop
@@ -61881,6 +61886,7 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
+bluecny.com
 bluecollarguitarpickupsonline.com
 bluecrossrehabcenters.com
 bluedanubetours.com
@@ -74469,6 +74475,8 @@ doctruyemoi.com
 doctxyle.cf
 doctxyle.ml
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentstorage4.com
 docusign-enterprise.com
@@ -105159,6 +105167,7 @@ luxuryshopforpants.com
 luxuryspanishrentals.com
 luxusmail.cf
 luxusmail.ml
+luxusmail.org
 luxusmail.tk
 luxusroleplay.us
 luxvil.ru
@@ -113118,6 +113127,7 @@ naveon.ru
 naverapp.com
 naverly.com
 navientlogin.net
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navlys.xyz
@@ -128476,6 +128486,7 @@ roaheirite.site
 roahenself.cf
 roahenself.ga
 roahenself.ml
+roalemd00.online
 roamvegas.com
 roanawel.cf
 roanawel.gq
@@ -139455,7 +139466,6 @@ tatisa.cf
 tatisa.ga
 tatisa.gq
 tatlihesap.org
-tatotzracing.com
 tattersallmediaforensics.com
 tattoo.cd
 tattooradio.ru
@@ -151776,6 +151786,10 @@ windmaweek.gq
 windmaweek.ml
 windmine.tk
 window-55.net
+window.adsbygoogle
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl

@@ -110,3 +110,4 @@ zonnet.nl
 nus.edu.sg
 benilde.edu.ph
 zoho.com
+mozmail.com

@@ -54591,6 +54591,7 @@ akinesis.info
 akiol555.vv.cc
 akiowrertutrrewa.co.tv
 akira4d.info
+akirbs.cloud
 akissaboe.us
 akjewelery-kr.info
 akkecuwa.ga
@@ -55045,6 +55046,7 @@ aliwegwpvd.gq
 aliwegwpvd.ml
 aliwegwpvd.tk
 aliwhite.top
+alixasac.workers.dev
 aliyandex.ru
 aliyubillionsblog.com
 aliyummail.cf
@@ -63174,7 +63176,6 @@ bluebottle.com
 bluecherry.xyz
 bluechipinvestments.com
 bluecitynews.com
-bluecny.com
 bluecollarguitarpickupsonline.com
 bluecrossrehabcenters.com
 bluedanubetours.com
@@ -65763,6 +65764,7 @@ c-resultsfitness.com
 c.alabamavape.com
 c.andreihusanu.ro
 c.hcac.net
+c.id
 c.kadag.ir
 c.kerl.gq
 c.nut.emailfake.nut.cc
@@ -70848,6 +70850,7 @@ correllohome.info
 correllohome.org
 correo.blogos.net
 correos-es.site
+correotemporal.org
 correotodo.com
 corrientelatina.net
 corrupt.life
@@ -75661,7 +75664,6 @@ dns9827.com
 dns9837.com
 dnsabr.com
 dnsbridge.com
-dnscares.life
 dnsdeer.com
 dnsdujeskd.com
 dnses.ro
@@ -75768,6 +75770,8 @@ doctruyemoi.com
 doctxyle.cf
 doctxyle.ml
 docu.me
+document.onreadystatechange
+document.title
 documentingyellowstone.com
 documentstorage4.com
 docusign-enterprise.com
@@ -76932,6 +76936,7 @@ dshqughcoin9nazl.gq
 dshqughcoin9nazl.ml
 dshqughcoin9nazl.tk
 dsiay.com
+dsjfgsdfjhdf58.cloud
 dsjoss.com
 dskkolovrat.ru
 dskqidlsjf.com
@@ -81818,6 +81823,7 @@ fapzy.com
 faqewebvizional.website
 far-king.com
 far51.website
+faraden.site
 faraon-cazino.online
 faraon.biz.pl
 farbar.site
@@ -94130,6 +94136,7 @@ i2a9ni.site
 i2pmail.org
 i301.info
 i35t0a5.com
+i3d47.anonbox.net
 i3pv1hrpnytow.cf
 i3pv1hrpnytow.ga
 i3pv1hrpnytow.gq
@@ -97574,6 +97581,7 @@ jama.trenet.eu
 jamaicaawareness.net
 jamaicarealestateclassifieds.com
 jamaicatirediscountergroup.com
+jamalak.website
 jamaw-ewad.ru
 jambcbtsoftware.com
 jambuseh.info
@@ -106473,6 +106481,7 @@ luxuryshomemn.com
 luxuryshopforpants.com
 luxuryspanishrentals.com
 luxusmail.ml
+luxusmail.org
 luxusmail.tk
 luxusroleplay.us
 luxvil.ru
@@ -109929,6 +109938,7 @@ merlinlabs.dev
 mermaid-construction.com
 mermail.info
 mernaiole.website
+mernerwnm.store
 meroba.ga
 meroba.gq
 meroba.ml
@@ -110101,6 +110111,7 @@ meulilis.ml
 meulilis.tk
 meumapa.com
 meumestredigital.store
+meuzap.ml
 meve8fekkes.xyz
 meveatan.cf
 meveatan.ga
@@ -111538,6 +111549,7 @@ modaborseprezzi.com
 modabuolsun.xyz
 modachane1borsee.com
 modaequipate.com
+modal-backdrop.show
 modalova.biz
 modalova.se
 modalova.shop
@@ -114430,6 +114442,7 @@ navendazanist.net
 naveon.ru
 naverapp.com
 navientlogin.net
+navigator.vendor
 naviosun-ca.info
 navistarcumminskenworthdetroit.com
 navlys.xyz
@@ -121932,6 +121945,8 @@ petruhino2.ru
 petrus-shop.ru
 petryasek.org
 petrzilka.net
+petscares.life
+petscares.live
 petscares.online
 petservices.website
 petsfirst.info
@@ -128608,6 +128623,7 @@ remontyartur.pl
 remontyfirma.pl
 remontymalarz.pl
 remontynestor.pl
+remooooa.cloud
 remospizza-ashbourne.com
 remote.li
 remotepcrepair.com
@@ -132149,6 +132165,7 @@ sandmassage.xyz
 sandoronyn.com
 sandra-ortega-mera.info
 sandra2034.beauty
+sandra2034.cfd
 sandrapcc.com
 sandre.cf
 sandre.ga
@@ -134015,7 +134032,6 @@ sfab.nu
 sfbayproductions.com
 sfd-bb.com
 sfdgdmail.com
-sfdhdsfhad56.cloud
 sfdjg.in
 sfdsci.us
 sferamk.ru
@@ -134034,7 +134050,6 @@ sfpc.de
 sfprioritycheck.org
 sfrty.ru
 sfsa.de
-sfsean.online
 sfzh6p.info
 sfznix.club
 sg4d.club
@@ -135321,6 +135336,7 @@ sivtmwumqz6fqtieicx.ml
 sivtmwumqz6fqtieicx.tk
 sivu.site
 sivwb.us
+siwiyjlc.xyz
 six-six-six.cf
 six-six-six.ga
 six-six-six.gq
@@ -153115,6 +153131,10 @@ windmaweek.gq
 windmaweek.ml
 windmine.tk
 window-55.net
+window.adsbygoogle
+window.livewire
+window.location
+window.onload
 windowconfigurator.com
 windowoffice7.com
 windows.sos.pl

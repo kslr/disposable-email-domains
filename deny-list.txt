@@ -5,3 +5,7 @@ droverpzq.com
 ffamilyaa.com
 pnizgotten.com
 sika3.com
+
+# https://github.com/kslr/disposable-email-domains/issues/65
+maskmy.id
+anything.maskmy.id

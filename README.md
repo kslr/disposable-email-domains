@@ -24,7 +24,6 @@ https://rawcdn.githack.com/kslr/disposable-email-domains/5d3388c508ba362d5a9030b
 https://raw.githubusercontent.com/kslr/disposable-email-domains/master/list.txt
 ```
 ## Source
-* https://github.com/yzyjim/disposable-email-domain-list
 * https://www.stopforumspam.com
 * https://github.com/andreis/disposable-email-domains
 

@@ -15,29 +15,28 @@ async function andreisDisposableEmailDomains() {
 }
 
 async function allowList() {
-    return fs.readFileSync('./whitelist.txt').toString().split('\n');
+    return fs.readFileSync('./allow-list.txt')
+        .toString()
+        .split('\n')
+        .filter(line => line.trim() !== '' && !line.trim().startsWith('#'));
 }
 
-async function customList() {
-    return fs.readFileSync('./custom.txt').toString().split('\n');
+async function denyList() {
+    return fs.readFileSync('./deny-list.txt')
+        .toString()
+        .split('\n')
+        .filter(line => line.trim() !== '' && !line.trim().startsWith('#'));
 }
 
 (async () => {
-    const allowDomains = await allowList();
-    let list = _.filter(
-        _.uniq(
-            _.concat(
-                await stopForumSpam(),
-                await andreisDisposableEmailDomains(),
-                await customList()
-            )), (domain) => {
-            if (allowDomains.indexOf(domain) !== -1) {
-                return false;
-            }
-
-            let email = `hi@${domain}`;
-            return isValidEmail.test(email);
-        });
+    const allowDomainsSet = new Set(await allowList());
+    let list = _.uniq(
+        _.concat(
+            await stopForumSpam(),
+            await andreisDisposableEmailDomains(),
+            await denyList()
+        ))
+        .filter(domain => !allowDomainsSet.has(domain) && isValidEmail.test(`hi@${domain}`))
 
     fs.writeFileSync('list.json', JSON.stringify(list));
     fs.writeFileSync('list.txt', list.join('\n'));

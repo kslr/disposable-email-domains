@@ -110,6 +110,8 @@ zonnet.nl
 nus.edu.sg
 benilde.edu.ph
 zoho.com
+
+# https://github.com/kslr/disposable-email-domains/pull/63
 protonmail.com
 protonmail.ch
 proton.me

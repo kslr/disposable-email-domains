@@ -19,4 +19,4 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || (git commit -m "update" -a && git push)
+          git diff --quiet || (git commit -m "update $(date +%Y-%m-%d)" -a && git push)

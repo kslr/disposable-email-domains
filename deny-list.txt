@@ -9,6 +9,14 @@ sika3.com
 # https://github.com/kslr/disposable-email-domains/issues/65
 maskmy.id
 anything.maskmy.id
+mailbox.zip
+sailmail.io
+kristofers.xyz
+e.rachitkhurana.tech
+hackw.tech
+garciaericn.com
+lushvista.cc
+odenwaldweb.de
 
 # temp-mail.lol and associated domains
 disposely.xyz

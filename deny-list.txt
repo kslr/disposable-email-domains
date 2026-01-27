@@ -9,3 +9,12 @@ sika3.com
 # https://github.com/kslr/disposable-email-domains/issues/65
 maskmy.id
 anything.maskmy.id
+
+# temp-mail.lol and associated domains
+disposely.xyz
+disposly.com
+fastestflex.com
+temp-mail.lol
+homecut.pro
+sendgrid.ovh
+urgentmail.ovh

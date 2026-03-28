@@ -21649,6 +21649,7 @@ care.feastday.click
 care.fliphq.click
 care.gettravellersrest.click
 care.meettravellersrest.click
+care.opentravellersrest.click
 care.setoffly.click
 care.switchonly.click
 care.thehike.click
@@ -95417,6 +95418,7 @@ skymemy.com
 skymovieshd.space
 skymovieshd.store
 skyne.be
+skynestoffc.xyz
 skynet.infos.st
 skynetengine.xyz
 skynetfinancial.com
@@ -109535,6 +109537,7 @@ virginmedua.com
 virginmmedia.com
 virginshuttle.com
 virginsrus.xyz
+virginvoyages.click
 virglio.com
 virgnmedia.com
 virgoans.co.uk

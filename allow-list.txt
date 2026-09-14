@@ -129,4 +129,8 @@ passfwd.com
 passmail.com
 passmail.net
 simplelogin.co
-simplelogin.io
+simplelogin.iofastmessaging.com
+mailhaven.com
+nospammail.net
+reallyfast.info
+veryfast.biz
